@@ -39,3 +39,10 @@ p
   width: 70%;
   margin: auto;
 }
+
+button
+{
+  margin: 10px;
+  color: white;
+  background-color: lightblue;
+}
